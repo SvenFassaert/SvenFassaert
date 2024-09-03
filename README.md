@@ -7,3 +7,7 @@ I'm a motivated and hard-working data professional specializing in Data Science,
 I'm passionate about solving real-world problems through data, continuously expanding my expertise, and working on innovative projects. Currently, I'm focused on further developing my skills in machine learning and data-driven decision-making
 
 Let's connect and explore the world of data together!
+
+---
+
+### Languages and Tools
