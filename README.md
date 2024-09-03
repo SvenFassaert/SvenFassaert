@@ -12,11 +12,11 @@ Let's connect and explore the world of data together!
 
 ### Languages and Tools
 
-In mijn projecten maak ik gebruik van verschillende programmeertalen en tools, waaronder:
+In my projects, I utilize a variety of programming languages and tools, including:
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Voor data-analyse, automatisering, machine learning en het bouwen van webapplicaties.
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL**: Voor het beheren en opvragen van relationele databases.
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**: Voor het maken van interactieve dashboards en datavisualisaties.
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau**: Voor geavanceerde datavisualisatie en business intelligence.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: For data analysis, automation, machine learning, and building web applications.
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL**: For managing and querying relational databases.
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**: For creating interactive dashboards and data visualizations.
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau**: For advanced data visualization and business intelligence.
 
-Ik gebruik deze tools om complexe problemen op te lossen en data-inzichten te genereren die waardevol zijn voor het nemen van beslissingen.
+I use these tools to solve complex problems and generate data insights that are valuable for decision-making.
